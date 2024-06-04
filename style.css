@@ -1,0 +1,27 @@
+/* Blue theme */
+body {
+    background-color: #f0f8ff;
+    color: #333333;
+}
+
+.stButton > button {
+    background-color: #4169e1;
+    color: white;
+}
+
+.stTextArea > label {
+    color: #4169e1;
+}
+
+.stMarkdown h1 {
+    color: #4169e1;
+}
+
+.stMarkdown h2 {
+    color: #4169e1;
+}
+
+.stDataFrame {
+    background-color: white;
+    border: 1px solid #4169e1;
+}
